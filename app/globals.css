@@ -16,3 +16,7 @@
 @media(max-width:760px){.founder{grid-template-columns:1fr;padding:80px 22px}.founder-photo{width:min(82vw,390px);justify-self:center}.founder h2{font-size:64px}}
 
 .founder-copy blockquote{margin:22px 0 4px;padding:16px 0;border-block:1px solid #17623b55;font:italic 700 clamp(23px,2.3vw,34px)/1.2 Georgia,serif;color:var(--red)}
+
+/* Four identical copies keep the ticker covered on very wide screens. */
+.marquee-track{animation-duration:32s}
+@keyframes ticker{to{transform:translateX(-25%)}}
