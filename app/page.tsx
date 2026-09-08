@@ -19,7 +19,9 @@ export default function Home() {
       <section id="top" className="hero">
         <img className="hero-bg" src="/images/pepper-shrimp-hero.png" alt="Whole head-on Jamaican pepper shrimp in a clear takeout tub beside Black River"/><div className="hero-shade"/>
         <div className="hero-copy"><p className="kicker"><span>From Jamaica to Broward</span></p><h1>Real yaad flavor.<br/><em>RUFF heat.</em></h1><p className="hero-lede">Whole, head-on shrimp drenched in our fiery Scotch bonnet blend. Bold, bright, and made the Jamaican way.</p><div className="hero-actions"><a className="primary" href="#order">Order a $20 tub <ShoppingBag size={18}/></a><a className="text-link" href="#story">Meet the flavor <ArrowDown size={17}/></a></div></div>
-        <div className="pepper-stamp"><Flame/><b>SCOTCH<br/>BONNET</b><small>HEAT</small></div><p className="scroll-note">SCROLL FI DI STORY <span/></p>
+        <div className="pepper-stamp"><Flame/><b>SCOTCH<br/>BONNET</b><small>HEAT</small></div>
+        <div className="hero-mascot" aria-hidden="true"><div className="mascot-bubble">Mi tell yuh<br/><b>it RUFF!</b></div><div className="mascot-art"><img src="/images/ruff-shrimp-logo.png" alt=""/><i className="falling-tear"/></div></div>
+        <p className="scroll-note">SCROLL FI DI STORY <span/></p>
       </section>
       <section className="marquee" aria-label="Product highlights"><div>HEADS ON <i>✦</i> SHELLS ON <i>✦</i> SCOTCH BONNET <i>✦</i> $20 A TUB <i>✦</i> BROWARD COUNTY <i>✦</i></div></section>
       <section id="story" className="story">
