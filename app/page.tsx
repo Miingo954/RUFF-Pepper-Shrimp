@@ -217,7 +217,7 @@ export default function Home() {
               Black River Management Plan ↗
             </a>
             <a
-              href="https://www.parishhistoriesofjamaica.org/wp-content/uploads/2020/01/The-Parish-History-of-St.-Elizabeth.pdf"
+              href="https://jis.gov.jm/information/parish-profiles/parish-profile-st-elizabeth/"
               target="_blank"
               rel="noreferrer"
             >
