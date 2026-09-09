@@ -12,7 +12,7 @@ export const metadata: Metadata = {
       'Real yaad flavor. Whole shrimp, Scotch bonnet heat, $20 a tub.',
     images: [
       {
-        url: '/og-ruff.png',
+        url: '/og-logo.png',
         width: 1200,
         height: 630,
         alt: 'RUFF Pepper Shrimp logo',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     title: 'RUFF Pepper Shrimp',
     description:
       'Real yaad flavor. Whole shrimp, Scotch bonnet heat, $20 a tub.',
-    images: ['/og-ruff.png'],
+    images: ['/og-logo.png'],
   },
 };
 
