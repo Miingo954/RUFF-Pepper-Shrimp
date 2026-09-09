@@ -114,10 +114,10 @@ export default function Home() {
       <section id="story" className="story">
         <div className="story-photo">
           <img
-            src="/images/middle-quarters-roadside-recreation.jpg"
-            alt="Jamaican roadside vendors serving small bags of head-on pepper shrimp to a customer"
+            src="/images/middle-quarters-story.png"
+            alt="Jamaican pepper shrimp vendors sharing food and community at a roadside stand"
           />
-          <span>Middle Quarters roadside tradition</span>
+          <span>Middle Quarters spirit</span>
         </div>
         <div className="story-copy">
           <p className="eyebrow">Straight from the source</p>
