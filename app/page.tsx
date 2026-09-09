@@ -115,7 +115,7 @@ export default function Home() {
         <div className="story-photo">
           <img
             src="/images/middle-quarters-roadside-recreation.jpg"
-            alt="Artistic recreation of a Jamaican roadside vendor handing a small bag of head-on pepper shrimp to a customer"
+            alt="Artistic recreation of Jamaican roadside vendors serving small bags of head-on pepper shrimp to a customer"
           />
           <span>Roadside tradition · artistic recreation</span>
         </div>
