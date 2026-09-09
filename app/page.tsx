@@ -189,8 +189,8 @@ export default function Home() {
       </section>
       <section className="heritage">
         <img
-          src="/images/black-river-fisherman.png"
-          alt="A Jamaican fisherman casting a net from a narrow canoe on Black River at sunrise"
+          src="/images/black-river-shrimp-baskets.png"
+          alt="A Jamaican fisherman lifting a woven shrimp basket from Black River while working from a dugout canoe"
         />
         <div className="heritage-shade" />
         <div className="heritage-copy">
@@ -203,9 +203,12 @@ export default function Home() {
           <p>
             Long before pepper shrimp became Jamaica’s famous roadside bite,
             fishers worked the Black River wetlands from dugout canoes.
-            Jamaica’s environmental history connects the craft to Taíno canoe
-            traditions and specialized African shrimp basket knowledge carried
-            from the Niger Delta more than three centuries ago.
+            Jamaica’s Black River management plan describes this living Shrimp
+            Country heritage as a link between Taíno and West African
+            traditions. Dugout canoes have deep Indigenous Caribbean roots,
+            while specialized shrimp baskets are linked to West African
+            basket-making knowledge carried to Jamaica more than three centuries
+            ago.
           </p>
           <p>
             In Middle Quarters, the catch became the bright red, deeply seasoned
