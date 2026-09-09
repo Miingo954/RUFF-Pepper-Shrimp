@@ -114,10 +114,10 @@ export default function Home() {
       <section id="story" className="story">
         <div className="story-photo">
           <img
-            src="/images/middle-quarters-story.png"
-            alt="Jamaican pepper shrimp vendors sharing food and community at a roadside stand"
+            src="/images/middle-quarters-roadside-recreation.jpg"
+            alt="Artistic recreation of a Jamaican roadside shrimp vendor with colorful baskets and head-on pepper shrimp served in an open bag"
           />
-          <span>Middle Quarters spirit</span>
+          <span>Roadside tradition · artistic recreation</span>
         </div>
         <div className="story-copy">
           <p className="eyebrow">Straight from the source</p>
@@ -171,6 +171,11 @@ export default function Home() {
             real thing, so he went deeper. He traveled, researched, and learned
             from people close to the source until he perfected a recipe worthy
             of the memory.
+          </p>
+          <p>
+            Today, the complete recipe stays between Mike and his son Jamal.
+            Father and son know every step, keeping the flavor true to the
+            source and the family tradition protected.
           </p>
           <blockquote>Same joy. No plane ticket.</blockquote>
           <div className="founder-mark">
