@@ -114,8 +114,8 @@ export default function Home() {
       <section id="story" className="story">
         <div className="story-photo">
           <img
-            src="/images/middle-quarters-story.png"
-            alt="Jamaican pepper shrimp vendors sharing food and community at a roadside stand"
+            src="/images/middle-quarters-vendor-sale.png"
+            alt="A Middle Quarters vendor offering a snack bag of whole Jamaican pepper shrimp"
           />
           <span>Middle Quarters spirit</span>
         </div>
